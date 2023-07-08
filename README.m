@@ -1,3 +1,3 @@
 BCA(CA)
-begginer.
+beginner.
 give me some tips!
