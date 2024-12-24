@@ -7,7 +7,7 @@
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,firebase,cloudflare,js,java,mongodb" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,python,firebase,cloudflare,js,java,mongodb" alt="Tech Stack" />
 </div>
 
 ---
