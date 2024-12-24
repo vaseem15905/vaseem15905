@@ -2,7 +2,7 @@
 <p align="center">
   <b>💻 A passionate Web Developer and Tech Enthusiast from India! 🌟</b>
 </p>
-
+  <img src="./assets/MyImg.png" alt="Tech Stack" />
 ---
 
 ### 🛠️ Tech Stack
