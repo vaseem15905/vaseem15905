@@ -7,7 +7,7 @@
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,python,firebase,cloudflare,js,java,mongodb" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,python,firebase,cloudflare,js,java,mongodb,c,cpp" alt="Tech Stack" />
 </div>
 
 ---
@@ -27,20 +27,10 @@
 
 ### 🔗 Let's Connect!
 <p align="center">
-  <a href="https://github.com/MohammedVaseemH" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" /></a>
+  <a href="https://github.com/vaseem15905" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" /></a>
   <a href="https://linkedin.com/in/mohammed-vaseem15905" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" /></a>
   <a href="https://instagram.com/vasi.exe" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" /></a>
 </p>
-
----
-
-### 📄 My Resume
-<p align="center">
-  <a href="YOUR_RESUME_LINK_HERE" target="_blank" class="btn">
-    <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobe" alt="Resume" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 My GitHub Stats
