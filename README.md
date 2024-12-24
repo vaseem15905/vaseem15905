@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Mohammed Vaseem H 🚀</h1>
 <p align="center">
-  <img src="./assets/MyImg.png" alt="Tech Stack" width="120" height="120" />
+  <img src="./assets/MyImg.png" alt="Tech Stack" width="220" height="220" />
   <br />
   <b>💻 A passionate Web Developer and Tech Enthusiast from India! 🌟</b>
 </p>
