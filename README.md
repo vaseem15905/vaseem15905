@@ -22,8 +22,8 @@
   - 📱 **SRM Curious Bees**: A social media platform for academic discussions.
   - 📊 **Data Analytics Dashboard**: Built with Firebase, deployed on Cloudflare.
   - 💳 **Payment App**: Focused on secure payment solutions.
-- 🌱 Exploring **Machine Learning** and creating a **GPA Calculator** with Python and Vite.js.
-- 🌍 **Freelancer**: Currently building a logo designer's client booking website.
+- 🌱 Exploring **Machine Learning**
+- 🌍 **Freelancer**
 
 ---
 
