@@ -20,9 +20,6 @@
 - ✨ **Secretary of LiveWires Technical Club**, managing 30+ operations and projects.
 - 💡 Delivered a **keynote on Web Development** at a bootcamp hosted by LiveWires.
 - ⚡ Participated in **10+ hackathons**; notable projects include:
-  - 📱 **SRM Curious Bees**: A social media platform for academic discussions.
-  - 📊 **Data Analytics Dashboard**: Built with Firebase, deployed on Cloudflare.
-  - 💳 **Payment App**: Focused on secure payment solutions.
 - 🌱 Exploring **Machine Learning**
 - 🌍 **Freelancer**
 
