@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Mohammed Vaseem H 💚</h1>
+<h1 align="center">👋 Hi, I'm Mohammed Vaseem💚</h1>
 <p align="center">
   <img src="./assets/MyImg.png" alt="Tech Stack" width="350" height="320" />
   <br />
