@@ -19,7 +19,7 @@
 - 🎓 **Undergraduate Student**, currently in my final year.
 - ✨ **Secretary of LiveWires Technical Club**, managing 30+ operations and projects.
 - 💡 Delivered a **keynote on Web Development** at a bootcamp hosted by LiveWires.
-- ⚡ Participated in **10+ hackathons**; notable projects include:
+- ⚡ Participated in **10+ hackathons**
 - 🌱 Exploring **Machine Learning**
 - 🌍 **Freelancer**
 
