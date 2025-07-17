@@ -29,7 +29,7 @@
 <p align="center">
   <a href="https://github.com/vaseem15905" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" /></a>
   <a href="https://linkedin.com/in/mohammed-vaseem15905" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" /></a>
-  <a href="https://instagram.com/vasi.exe" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" /></a>
+  <a href="https://instagram.com/vaseem.dev" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" /></a>
 </p>
 
 ---
