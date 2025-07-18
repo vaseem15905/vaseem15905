@@ -35,4 +35,4 @@
 ---
 
 ### 🌟 Fun Fact
-"Every project I create is crafted with precision, passion, and a sprinkle of innovation! 🚀"
+"Every project I create is crafted with precision, passion, and a sprinkle of innovation!"
